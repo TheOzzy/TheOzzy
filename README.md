@@ -7,7 +7,7 @@ Aspiring **Platform & Cloud Engineer** with hands-on experience across automatio
 ## 🚀 What I’m Working On  
 - Building my **Platform Engineering Journey** repo (Terraform, Docker, CI/CD, Linux labs)  
 - **Personal Website** — A custom-built portfolio site (HTML, CSS, JS) evolving into a full-stack project  
-- **Flutter App** — A cross-platform habit-tracking app inspired by the point-and-click adventure MMO RPG RuneScape, bulit on Flutter backed by Supabase (in early development) 
+
 ---
 
 ## 🧰 Tech Stack  
