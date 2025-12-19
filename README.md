@@ -24,7 +24,7 @@ A Software Developer aspiring to become a **Platform & Cloud Engineer** with han
 - **Cloud:** Azure (AZ-900), AWS (SAA in progress)  
 - **Tools:** Git, GitHub Actions, Docker, Terraform, Kubernetes (learning)  
 - **Data:** PostgreSQL, MySQL, SharePoint Lists, Firebase, PlanetScale  
-- **Platforms:** Power Apps/Automate/SharePoint/Planner, Salesforce LWC/Flows, React, Django, Flutter
+- **Platforms:** Power Apps/Automate/SharePoint/Planner, React, Django, Flutter
 
 ---
 
