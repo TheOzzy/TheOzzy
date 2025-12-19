@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Warsame  
 
-Aspiring **Platform & Cloud Engineer** with hands-on experience across automation, cloud workflows, Linux systems, and internal tooling. I’m currently transitioning into Platform Engineering, building projects that focus on reliability, scalability, and developer experience.
+A Software Developer aspiring to become a **Platform & Cloud Engineer** with hands-on experience across automation, cloud workflows, Linux systems, and internal tooling. I’m currently transitioning into Platform Engineering, building projects that focus on reliability, scalability, and developer experience.
 
 ---
 
