@@ -10,12 +10,21 @@ A Software Developer aspiring to become a **Platform & Cloud Engineer** with han
 
 ---
 
-## 🧰 Tech Stack  
-**Languages:** Python, Bash, PowerShell, JavaScript 
-**Cloud:** Azure, AWS (exposure)  
-**Tools:** Git, GitHub Actions (CI/CD), Docker, Terraform  
-**Databases:** PostgreSQL, MySQL, SharePoint (automation workflows)  
-**OS:** Linux (Ubuntu), Windows  
+## 🧰 Skills & Tech
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?logo=python)
+![Azure](https://img.shields.io/badge/Azure-000?logo=microsoftazure)
+![AWS](https://img.shields.io/badge/AWS-000?logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-000?logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=githubactions)
+
+- **Languages:** JavaScript, Python, Bash, PowerShell, Java, SQL  
+- **Cloud:** Azure (AZ-900), AWS (SAA in progress)  
+- **Tools:** Git, GitHub Actions, Docker, Terraform, Kubernetes (learning)  
+- **Data:** PostgreSQL, MySQL, SharePoint Lists, Firebase, PlanetScale  
+- **Platforms:** Power Apps/Automate/SharePoint/Planner, Salesforce LWC/Flows, React, Django, Flutter
 
 ---
 
