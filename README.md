@@ -6,7 +6,9 @@ A Software Developer aspiring to become a **Platform & Cloud Engineer** with han
 
 ## 🚀 What I’m Working On  
 - Building my **Platform Engineering Journey** repo (Terraform, Docker, CI/CD, Linux labs)  
-- **Personal Website** — A custom-built portfolio site (HTML, CSS, JS) evolving into a full-stack project  
+- **Personal Website REVAMP** — A custom-built portfolio site (HTML, CSS, JS) evolving into a full-stack project - **Frameworks are yet to be decided on**
+-  **RAG STATUS** - A customer-built RAG STATUS app bulit on Flutter & Supabase
+-  **PROJECT-SKILL** - Gamified Skill/Habit tracking app bulit on Flutter for IOS & Android.
 
 ---
 
